@@ -1,2 +1,2 @@
 # My-Profile
-Get to know more about Thato Tshukudu
+![Profile](ThatoTshukudu_Profile.pdf)
