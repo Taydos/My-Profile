@@ -3,11 +3,11 @@
 
 
 <details>
-     <summary><b><h2> Mini Project Contributions </h2></b></summary>
-     <br>
+     <summary><b><h3> Mini Project Contributions </h3></b></summary>
         Unit Tests
           <ul> 
-               <li>Set up and conducted automated tests on Postman for <i>Reset</i>, <i>Recover</i> and <i>Encryption</i> models.       </li>
+               <li>Set up and conducted automated tests on Postman for <i>Reset</i>, <i>Recover</i> and <i>Encryption</i> models.       </li> 
+          </ul>
         <br>
         Coding and Implementation
         <ul> 
