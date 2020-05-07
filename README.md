@@ -8,7 +8,7 @@
           <ul> 
                <li>Set up and conducted automated tests on Postman for <i>Reset</i>, <i>Recover</i> and <i>Encryption</i> models.       </li> 
           </ul>
-        <br>
+        
         Coding and Implementation
         <ul> 
              <li> Developed the Encryption model for the API (Encryption.php) </li>
