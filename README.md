@@ -1,4 +1,4 @@
-# My-Profile
+
 ![Thato Tshukudu Profile](Profile.jpg)
 
 
