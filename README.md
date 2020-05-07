@@ -1,4 +1,5 @@
 # My-Profile
+![Thato Tshukudu Profile](Profile.jpg)
 <details>
      <summary><b>What I Did </b></summary>
      <br>
