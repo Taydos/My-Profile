@@ -1,4 +1,10 @@
 # My-Profile
-\begin{center} <br>
-\includegraphics[width=8in]{ThatoTshukudu_Profile.pdf} <br>
-\end{center}
+<details>
+     <summary><b>What I Did </b></summary>
+     <br>
+        Unit Tests
+        <br>
+        Integration Tests
+        <br>
+        Docker set up
+</details>
